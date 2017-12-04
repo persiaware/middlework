@@ -1,0 +1,19 @@
+{
+  "name": "middlework",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/persiaware/middlework.git"
+  },
+  "author": "Mahdi Sadeghi (persiaware@gmail.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/persiaware/middlework/issues"
+  },
+  "homepage": "https://github.com/persiaware/middlework#readme"
+}
